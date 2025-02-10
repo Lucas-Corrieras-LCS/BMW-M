@@ -1,0 +1,452 @@
+[
+  {
+    "Modèle": "M3 E46",
+    "Année": 2000,
+    "Moteur": "3.2L 6-cyl Atmo",
+    "Puissance": "343 ch",
+    "Couple": "365 Nm",
+    "0-100 km/h (s)": "5.2 s",
+    "Prix (€)": 65000
+  },
+  {
+    "Modèle": "M5 E39",
+    "Année": 2000,
+    "Moteur": "4.9L V8 Atmo",
+    "Puissance": "400 ch",
+    "Couple": "500 Nm",
+    "0-100 km/h (s)": "5.3 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E92",
+    "Année": 2007,
+    "Moteur": "4.0L V8 Atmo",
+    "Puissance": "420 ch",
+    "Couple": "400 Nm",
+    "0-100 km/h (s)": "4.8 s",
+    "Prix (€)": 72000
+  },
+  {
+    "Modèle": "M5 E60",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.7 s",
+    "Prix (€)": 95000
+  },
+  {
+    "Modèle": "M6 E63",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.6 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M3 F80",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M4 F82",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 76000
+  },
+  {
+    "Modèle": "M5 F90",
+    "Année": 2018,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "600 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.4 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M8 F92",
+    "Année": 2019,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "625 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.2 s",
+    "Prix (€)": 180000
+  },
+  {
+    "Modèle": "M2 G87",
+    "Année": 2023,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "460 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E46",
+    "Année": 2000,
+    "Moteur": "3.2L 6-cyl Atmo",
+    "Puissance": "343 ch",
+    "Couple": "365 Nm",
+    "0-100 km/h (s)": "5.2 s",
+    "Prix (€)": 65000
+  },
+  {
+    "Modèle": "M5 E39",
+    "Année": 2000,
+    "Moteur": "4.9L V8 Atmo",
+    "Puissance": "400 ch",
+    "Couple": "500 Nm",
+    "0-100 km/h (s)": "5.3 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E92",
+    "Année": 2007,
+    "Moteur": "4.0L V8 Atmo",
+    "Puissance": "420 ch",
+    "Couple": "400 Nm",
+    "0-100 km/h (s)": "4.8 s",
+    "Prix (€)": 72000
+  },
+  {
+    "Modèle": "M5 E60",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.7 s",
+    "Prix (€)": 95000
+  },
+  {
+    "Modèle": "M6 E63",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.6 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M3 F80",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M4 F82",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 76000
+  },
+  {
+    "Modèle": "M5 F90",
+    "Année": 2018,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "600 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.4 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M8 F92",
+    "Année": 2019,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "625 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.2 s",
+    "Prix (€)": 180000
+  },
+  {
+    "Modèle": "M2 G87",
+    "Année": 2023,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "460 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E46",
+    "Année": 2000,
+    "Moteur": "3.2L 6-cyl Atmo",
+    "Puissance": "343 ch",
+    "Couple": "365 Nm",
+    "0-100 km/h (s)": "5.2 s",
+    "Prix (€)": 65000
+  },
+  {
+    "Modèle": "M5 E39",
+    "Année": 2000,
+    "Moteur": "4.9L V8 Atmo",
+    "Puissance": "400 ch",
+    "Couple": "500 Nm",
+    "0-100 km/h (s)": "5.3 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E92",
+    "Année": 2007,
+    "Moteur": "4.0L V8 Atmo",
+    "Puissance": "420 ch",
+    "Couple": "400 Nm",
+    "0-100 km/h (s)": "4.8 s",
+    "Prix (€)": 72000
+  },
+  {
+    "Modèle": "M5 E60",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.7 s",
+    "Prix (€)": 95000
+  },
+  {
+    "Modèle": "M6 E63",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.6 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M3 F80",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M4 F82",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 76000
+  },
+  {
+    "Modèle": "M5 F90",
+    "Année": 2018,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "600 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.4 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M8 F92",
+    "Année": 2019,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "625 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.2 s",
+    "Prix (€)": 180000
+  },
+  {
+    "Modèle": "M2 G87",
+    "Année": 2023,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "460 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E46",
+    "Année": 2000,
+    "Moteur": "3.2L 6-cyl Atmo",
+    "Puissance": "343 ch",
+    "Couple": "365 Nm",
+    "0-100 km/h (s)": "5.2 s",
+    "Prix (€)": 65000
+  },
+  {
+    "Modèle": "M5 E39",
+    "Année": 2000,
+    "Moteur": "4.9L V8 Atmo",
+    "Puissance": "400 ch",
+    "Couple": "500 Nm",
+    "0-100 km/h (s)": "5.3 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E92",
+    "Année": 2007,
+    "Moteur": "4.0L V8 Atmo",
+    "Puissance": "420 ch",
+    "Couple": "400 Nm",
+    "0-100 km/h (s)": "4.8 s",
+    "Prix (€)": 72000
+  },
+  {
+    "Modèle": "M5 E60",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.7 s",
+    "Prix (€)": 95000
+  },
+  {
+    "Modèle": "M6 E63",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.6 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M3 F80",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M4 F82",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 76000
+  },
+  {
+    "Modèle": "M5 F90",
+    "Année": 2018,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "600 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.4 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M8 F92",
+    "Année": 2019,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "625 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.2 s",
+    "Prix (€)": 180000
+  },
+  {
+    "Modèle": "M2 G87",
+    "Année": 2023,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "460 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E46",
+    "Année": 2000,
+    "Moteur": "3.2L 6-cyl Atmo",
+    "Puissance": "343 ch",
+    "Couple": "365 Nm",
+    "0-100 km/h (s)": "5.2 s",
+    "Prix (€)": 65000
+  },
+  {
+    "Modèle": "M5 E39",
+    "Année": 2000,
+    "Moteur": "4.9L V8 Atmo",
+    "Puissance": "400 ch",
+    "Couple": "500 Nm",
+    "0-100 km/h (s)": "5.3 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M3 E92",
+    "Année": 2007,
+    "Moteur": "4.0L V8 Atmo",
+    "Puissance": "420 ch",
+    "Couple": "400 Nm",
+    "0-100 km/h (s)": "4.8 s",
+    "Prix (€)": 72000
+  },
+  {
+    "Modèle": "M5 E60",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.7 s",
+    "Prix (€)": 95000
+  },
+  {
+    "Modèle": "M6 E63",
+    "Année": 2005,
+    "Moteur": "5.0L V10 Atmo",
+    "Puissance": "507 ch",
+    "Couple": "520 Nm",
+    "0-100 km/h (s)": "4.6 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M3 F80",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  },
+  {
+    "Modèle": "M4 F82",
+    "Année": 2014,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "431 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 76000
+  },
+  {
+    "Modèle": "M5 F90",
+    "Année": 2018,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "600 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.4 s",
+    "Prix (€)": 120000
+  },
+  {
+    "Modèle": "M8 F92",
+    "Année": 2019,
+    "Moteur": "4.4L V8 Turbo",
+    "Puissance": "625 ch",
+    "Couple": "750 Nm",
+    "0-100 km/h (s)": "3.2 s",
+    "Prix (€)": 180000
+  },
+  {
+    "Modèle": "M2 G87",
+    "Année": 2023,
+    "Moteur": "3.0L 6-cyl Turbo",
+    "Puissance": "460 ch",
+    "Couple": "550 Nm",
+    "0-100 km/h (s)": "4.1 s",
+    "Prix (€)": 75000
+  }
+]
